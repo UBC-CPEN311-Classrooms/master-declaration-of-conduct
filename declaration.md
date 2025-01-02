@@ -1,12 +1,16 @@
-DECLARATION OF COMMUNICATION DURING CPEN311 FINAL EXAM
-======================================================
+COMMUNICATION DURING CPEN311 FINAL EXAM
+=======================================
 
-For each final exam task listed below, answer the statement below.
+For each final exam task listed in the declaration below, answer the statement
+with **YES**, **NO**, or **UNSURE**.
 
-MY FINAL EXAM SOLUTION FOR THE TASKS BELOW SHOULD BE GIVEN A GRADE OF 0 BECAUSE
-I COMMUNICATED ABOUT THE TASK WITH ANOTHER PERSON DURING THE FINAL EXAM. FOR
-TASKS I HAVE MARKED UNSURE, THE INSTRUCTOR WILL DECIDE ON THE GRADE BASED ON
-EVIDENCE AT HAND.
+DECLARATION
+-----------
+
+MY GRADE ON THE FINAL EXAM FOR THE TASKS BELOW SHOULD BE GIVEN A GRADE OF 0
+BECAUSE I COMMUNICATED ABOUT THE TASK WITH ANOTHER PERSON DURING THE FINAL
+EXAM. FOR TASKS I HAVE MARKED UNSURE, THE INSTRUCTOR WILL DECIDE ON THE GRADE
+BASED ON EVIDENCE AT HAND.
 
 + I communicated regarding Task1: NO
 + I communicated regarding Task2: NO
@@ -15,8 +19,8 @@ EVIDENCE AT HAND.
 + I communicated regarding Task5: NO
 + I communicated regarding Task6: NO
 
-By answering YES or UNSURE above, I accept that my final exam mark will be
-reduced for that task accordingly.
+By answering **YES** or **UNSURE** above, I accept that my final exam mark
+will be reduced for that task accordingly.
 
 Name:  (your name)
 
