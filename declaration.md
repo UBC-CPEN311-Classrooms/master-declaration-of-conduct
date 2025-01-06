@@ -1,26 +1,44 @@
-COMMUNICATION DURING CPEN311 FINAL EXAM
-=======================================
+INAPPROPRIATE CONDUCT DURING CPEN311 TESTS
+==========================================
 
-For each final exam task listed in the declaration below, answer the statement
-with **YES**, **NO**, or **UNSURE**.
+For each midterm or final exam task listed in the declaration below,
+answer the statement with **YES**, **NO**, or **UNSURE**.
+
+Declarations that are all **NO** do not need to be submitted.
 
 DECLARATION
 -----------
 
-MY GRADE ON THE FINAL EXAM FOR THE TASKS BELOW SHOULD BE GIVEN A GRADE OF 0
-BECAUSE I COMMUNICATED ABOUT THE TASK WITH ANOTHER PERSON DURING THE FINAL
-EXAM. FOR TASKS I HAVE MARKED UNSURE, THE INSTRUCTOR WILL DECIDE ON THE GRADE
-BASED ON EVIDENCE AT HAND.
+FOR TASKS THAT I HAVE MARKED **YES** BELOW, MY GRADE ON THE FINAL EXAM FOR
+THE TASKS BELOW SHOULD BE GIVEN A GRADE OF 0 BECAUSE EITHER I COMMUNICATED
+ABOUT THE TASK WITH ANOTHER PERSON WHEN I SHOULDN'T HAVE, OR I ENGAGED IN
+SOME OTHER INAPPROPRIATE OR UNPROFESSIONAL CONDUCT.
 
-+ I communicated regarding Task1: NO
-+ I communicated regarding Task2: NO
-+ I communicated regarding Task3: NO
-+ I communicated regarding Task4: NO
-+ I communicated regarding Task5: NO
-+ I communicated regarding Task6: NO
+FOR TASKS THAT I HAVE MARKED **UNSURE** BELOW, I MAY HAVE ENGAGED IN
+COMMUNICATION, INAPPROPPRIATE, OR UNPROFESSIONAL CONDUCT. I UNDERSTAND
+THE INSTRUCTOR WILL DECIDE ON THE GRADE BASED ON EVIDENCE AT HAND.
 
-By answering **YES** or **UNSURE** above, I accept that my final exam mark
-will be reduced for that task accordingly.
+FOR ANY TASKS MARKED **YES** OR **UNSURE**, I UNDERSTAND THERE WILL BE
+NO FURTHER PURSUIT OF ACADEMIC MISCONDUCT AGAINST ME.
+
++ I withdraw my submission for Midterm 1, Task 1: NO
++ I withdraw my submission for Midterm 1, Task 2: NO
++ I withdraw my submission for Midterm 2, Task 1: NO
++ I withdraw my submission for Midterm 2, Task 2: NO
++ I withdraw my submission for Midterm 3, Task 1: NO
++ I withdraw my submission for Final Exam, Task 1: NO
++ I withdraw my submission for Final Exam, Task 2: NO
++ I withdraw my submission for Final Exam, Task 3: NO
++ I withdraw my submission for Final Exam, Task 4: NO
++ I withdraw my submission for Final Exam, Task 5: NO
++ I withdraw my submission for Final Exam, Task 6: NO
+
+In addition to the above declarations, I wish to describe my actions as follows:
+(write an optional description here, particularly for items declared **UNSURE**)
+
+By answering **YES** or **UNSURE** above, I accept that my grade for that task
+may be reduced and my final mark for that midterm or exam will be reduced for
+that task accordingly.
 
 Name:  (your name)
 
@@ -28,63 +46,67 @@ Student Number: (your number)
 
 
 INSTRUCTIONS
-------------
+============
 
 1. The only acceptable responses above are **YES**, **NO**, or **UNSURE**.
 
-2. If you did NOT communicate with anyone, you should leave **NO** in the declaration.
+2. If you did NOT engage in any improper conduct, you should leave **NO** in the declaration.
 
 3. If you did not answer a task, leave the default answer of **NO**.
 
 4. If your answer is **NO** for all tasks, please do not submit a declaration.
 
 5. If you DID communicate with one or more people, either directly or
-indirectly as a sender or recipient or both, then change the NO to **YES**.
+indirectly as a sender or recipient or both, or engaged in an yother form
+of academic misconduct, then change the NO to **YES**.
 
-6. If you did communicate on some tasks, but are not sure which ones, then
-write **YES** for the ones you are sure about and **UNSURE** for the ones you are
-uncertain about.  For the tasks marked **UNSURE**, the instructor will determine
-whether the task will be considered **YES** or **NO** based on the evidence at hand.
+6. If you did conduct yourself inappropriately for some tasks, but are not sure
+which ones, then write **YES** for the ones you are sure about and **UNSURE** for
+the ones you are uncertain about.  For the tasks marked **UNSURE**, the instructor
+will determine whether the task will be considered **YES** or **NO** based on the
+evidence at hand.
 
 
 ADDITIONAL INFORMATION
 ----------------------
 
-The final exam was held on 13 December 2024. It started at 08:30am and ended at
-12:15pm because some students have extended time to write. Any communication
-within this time window is forbidden. If you communicated after you completed
-your exam, but before the other party finished their exam, then you are still
-considered to have participated in cheating.
+If you communicated after you completed your midterm or exam, but before the other
+party finished their exam, then you are still considered to have participated in
+communication during the midterm or exam.
 
-Note that communication may have been either direct (eg, email/chat) or
-indirect (eg, shared files).
+Note that communication may have been either direct (eg, email/chat) or indirect
+(eg, shared files).
 
-By admitting to communication for a task as YES or UNSURE, you will receive no
-further penalties other than a grade of 0 for this task.
+Inappropriate or unprofessional conduct includes submitting code past the deadline,
+modifying your submission in a way intended to deceive the examiners or receive
+credit you would not have otherwise received, and similar acts.
 
-By admitting to commmunication for one or more tasks, special consideration
-will be made to determine whether your remaining grade is a pass or fail. In
-some circumstances, you might still pass the course even though your grade has
-been reduced.
+By responding to a task as **YES** or **UNSURE**, you will receive no further
+penalties other than a grade of 0 for this task.
 
-If there is any evidence of cheating for a task, but you have answered NO, then
+By responding **YES** or **UNSURE** one or more tasks, special consideration
+will be made to determine whether your remaining grade is a pass or fail. That
+is, in some circumstances, you might still pass the course even though your grade
+was reduced.
+
+If there is any evidence of cheating for a task, but you have answered **NO**, then
 the case will be escalated through the normal UBC process.  The typical penalty
-is 0 on the entire exam, thereby failing the course.
+is 0 on the test and you will typically fail the course.
 
 
 REMINDERS
 ---------
 
-Task1: Verilog testbench to achieve high coverage in card game
-
-Task2: Verilog RTL to draw a filled circle
-
-Task3: single-port memory generated by Quartus
-
-Task4: KVS accelerator Verilog RTL
-
-Task5: Platform Designer screenshot of KVS accelerator
-
-Task6: KVS main.c testing code
++ Midterm 1, Task 1: Testbench for 100% coverage of airplane flaps and landing gear
++ Midterm 1, Task 2: Verilog design, division calculation
++ Midterm 2, Task 1: Verilog design, VGA sprite (drawing a straight line)
++ Midterm 2, Task 2: Verilog design, VGA fractal drawing
++ Midterm 3, Task 1: Verilog design, memory (frame buffer) writing and readout
++ Final Exam, Task 1: Verilog testbench to achieve high coverage in card game
++ Final Exam, Task 2: Verilog RTL to draw a filled circle
++ Final Exam, Task 3: single-port memory generated by Quartus
++ Final Exam, Task 4: KVS accelerator Verilog RTL
++ Final Exam, Task 5: Platform Designer screenshot of KVS accelerator
++ Final Exam, Task 6: KVS main.c testing code
 
 
