@@ -6,6 +6,8 @@ answer the statement with **YES**, **NO**, or **UNSURE**.
 
 Declarations that are all **NO** do not need to be submitted.
 
+Please commit and push your changes to this file by 3pm 7 January 2025.
+
 DECLARATION
 -----------
 
